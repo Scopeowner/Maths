@@ -6,6 +6,8 @@
 
 //This is the second line causing issue in the <*master/conflict> branch
 
+//This is the second line causing issue in the <*master/conflict> branch
+
 #include <stdio.h>
 
 int main() 
