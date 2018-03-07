@@ -9,6 +9,8 @@ int b = 3;
 
 printf("Addition sum = ", a+b);
 printf("Subtraction sum = ", a-b);
+printf("Multiplication sum = ", a*b);
+
 
 return 0;
 
